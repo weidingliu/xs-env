@@ -21,3 +21,6 @@
 [submodule "XiangShan-Design-Doc"]
 	path = XiangShan-Design-Doc
 	url = https://github.com/OpenXiangShan/XiangShan-Design-Doc
+[submodule "tl-test-new"]
+	path = tl-test-new
+	url = https://github.com/OpenXiangShan/tl-test-new.git
